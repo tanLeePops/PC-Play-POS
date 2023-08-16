@@ -10,7 +10,7 @@
           <div class="nav-collapse collapse">
             <ul class="nav pull-right">
              
-              <li><a href="../index.php"><font color="red"><i class="icon-off"></i></font></a></li>
+              <li><a href="../index.php"><font color="black"><i class="icon-off"></i></font></a></li>
             </ul>
           </div><!--/.nav-collapse -->
         </div>

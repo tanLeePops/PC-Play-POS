@@ -221,7 +221,6 @@ a {
 }
 
 a:hover {
-  color: #005580;
   text-decoration: underline;
 }
 
@@ -2172,6 +2171,7 @@ table .span24 {
 
 .icon-off {
   background-position: -384px 0;
+  text-shadow: 1px 1px 1px  #e0eedc;
 }
 
 .icon-signal {
@@ -3664,8 +3664,8 @@ input[type="submit"].btn.btn-mini {
 
 .nav > li > a:hover {
   text-decoration: none;
-  background-color: #fff;
-  color:#0489bd;
+  background-color: #ff0000;
+  color:#ff0000;
 }
 
 .nav > .pull-right {
@@ -4077,6 +4077,7 @@ input[type="submit"].btn.btn-mini {
 
 .nav-collapse.collapse {
   height: auto;
+
 }
 
 .navbar .brand {
@@ -4461,11 +4462,12 @@ input[type="submit"].btn.btn-mini {
 .navbar-inverse .nav > li > a:hover {
   color: #ffffff;
 }
-
+/* naedit1 */
 .navbar-inverse .nav > li > a:focus,
 .navbar-inverse .nav > li > a:hover {
   color: #ffffff;
-    background:blue;
+    background: #4a6741; 
+    
 }
 
 .navbar-inverse .nav .active > a,
