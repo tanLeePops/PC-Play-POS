@@ -66,7 +66,7 @@ POS
 		
 		<form action="login.php" method="post">
 		
-					<font style=" font:bold 22px 'Aleo'; color:#fff; text-shadow: 0 0 10px #99e3c3;"><center> PC Play POS </center></font>
+					<font style=" font:bold 22px 'Aleo'; color:#fff; text-shadow: 0 0 10px #99e3c3;"><center> PC Play </center></font>
 				<br>
 		
 				
