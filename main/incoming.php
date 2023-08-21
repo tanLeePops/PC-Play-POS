@@ -24,7 +24,7 @@ $sql = "UPDATE products
 		WHERE product_id=?";
 $q = $db->prepare($sql);
 $q->execute(array($c,$b));
-$fffffff=$asasa-$discount;
+$fffffff=(int)$asasa-(int)$discount;
 $d=$fffffff*$c;
 $profit=$p*$c;
 // query
